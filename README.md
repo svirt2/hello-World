@@ -1,2 +1,5 @@
 # hello-World
-Just my training Repository
+Hi World,
+
+I just my training Repository
+and student Java scripting
